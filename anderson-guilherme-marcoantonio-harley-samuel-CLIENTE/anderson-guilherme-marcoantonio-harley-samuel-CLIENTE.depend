@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1529854331 source:/home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-CLIENTE/base64.cpp
+	"base64.h"
+	<iostream>
+
+1529854311 /home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-CLIENTE/base64.h
+	<string>
+
+1529854250 source:/home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-CLIENTE/Client.cpp
+	"Client.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
+1529854231 /home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-CLIENTE/Client.h
+	<netinet/in.h>
+
+1529854387 source:/home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-CLIENTE/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"ClientApp.h"
+
+1529854268 /home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-CLIENTE/ClientApp.h
+	<vector>
+	<iostream>
+	"Client.h"
+
+1529854371 source:/home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-CLIENTE/sha1.cpp
+	"sha1.h"
+	<sstream>
+	<iomanip>
+	<fstream>
+
+1529854353 /home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-CLIENTE/sha1.h
+	<iostream>
+	<string>
+

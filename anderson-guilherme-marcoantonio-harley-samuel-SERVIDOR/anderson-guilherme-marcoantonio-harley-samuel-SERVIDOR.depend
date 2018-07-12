@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1529855400 source:/home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-SERVIDOR/base64.cpp
+	"base64.h"
+	<iostream>
+
+1529855384 /home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-SERVIDOR/base64.h
+	<string>
+
+1529855468 source:/home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-SERVIDOR/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"ServerApp.h"
+
+1529855337 /home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-SERVIDOR/ServerApp.h
+	<iostream>
+	<vector>
+	<thread>
+	"Server.h"
+
+1529855300 /home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-SERVIDOR/Server.h
+	<netinet/in.h>
+
+1529855557 source:/home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-SERVIDOR/ServerApp.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+	<sstream>
+	"base64.h"
+	<bits/stdc++.h>
+	<sstream>
+	<fstream>
+	"sha1.h"
+	"Server.h"
+	"ServerApp.h"
+
+1529855417 /home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-SERVIDOR/sha1.h
+	<iostream>
+	<string>
+
+1529855435 source:/home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-SERVIDOR/sha1.cpp
+	"sha1.h"
+	<sstream>
+	<iomanip>
+	<fstream>
+
+1529855613 source:/home/harley/Projetos/Codeblocks/anderson-guilherme-marcoantonio-harley-samuel-SERVIDOR/Server.cpp
+	"Server.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
