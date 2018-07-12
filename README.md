@@ -1,1 +1,3 @@
 # Cliente-Servidor---Linux
+
+# In this repository are the files of the group work of the discipline Computer Networks, in this work I was responsible for developing the client part to solve the problem in question. The problem consisted of making a server client application that simulated an electronic lock, in which a client connecting to the server using a TCP connection sent a request message in the format of login and password and the server was responsible for checking that the login was correct and authenticate the user by releasing the lock. The user password was encoded using base64 and on the server the password was stored in a database in txt file format using the sha1 technique.
